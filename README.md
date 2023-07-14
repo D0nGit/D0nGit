@@ -1,4 +1,6 @@
 ### Hi there 👋
+D0nGit es egresado de la Escuela Superior de Ingenieria Mecanica y Electrica.
+Trabaja actualmente en Banjercito.
 
 <!--
 **D0nGit/D0nGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
